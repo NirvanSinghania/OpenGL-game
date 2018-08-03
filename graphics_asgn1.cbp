@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="graphics_asgn1" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\src\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/nikhil/Downloads/graphics-boilerplate-master2" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/nikhil/Downloads/graphics-boilerplate-master2" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/nikhil/Downloads/graphics-boilerplate-master2" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="graphics_asgn1">
+         <Option output="/home/nikhil/Downloads/graphics-boilerplate-master2/graphics_asgn1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nikhil/Downloads/graphics-boilerplate-master2" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include/libdrm" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 graphics_asgn1" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="graphics_asgn1/fast">
+         <Option output="/home/nikhil/Downloads/graphics-boilerplate-master2/graphics_asgn1" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nikhil/Downloads/graphics-boilerplate-master2" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include/libdrm" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 graphics_asgn1/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nikhil/Downloads/graphics-boilerplate-master2/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/audio.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/ball.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/ball.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/canon.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/canon.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/color.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/health.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/health.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/input.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/main.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/main.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/nonedit.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/other_handlers.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/rock.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/rock.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/timer.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/timer.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/water.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/water.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/waves.cpp">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/waves.h">
+         <Option target="graphics_asgn1"/>
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/Sample_GL.vert">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+      <Unit filename="/home/nikhil/Downloads/graphics-boilerplate-master2/src/Sample_GL.frag">
+          <Option virtualFolder="CMake Files\src\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
