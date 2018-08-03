@@ -1,11 +1,6 @@
-Graphics Boilerplate Code
+Graphics 3D game
 =========================
 
-This is boilerplate code for the assignments which might be helpful.
+Built using OpenGL and C++.
 
 
-License
--------
-The MIT License https://meghprkh.mit-license.org/
-
-Copyright &copy; 2018 Megh Parikh <meghprkh@gmail.com>
